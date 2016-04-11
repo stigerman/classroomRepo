@@ -1,0 +1,12 @@
+{
+  "heroku": {
+    "email": "rmeibaum@me.com",
+    "password": "hHUvxT7)cY}oyY3hug;49BQK"
+  },
+  "DarSkyAPI": {
+    "APIKey": "458aa6046660ecfd4128e22cf85584eb"
+  },
+  "GoogleMapsJavaSciptAPI": {
+    "APIKey": "AIzaSyBUbIP8Jg6lVvvRsUSQCGQSiy1xi_poaC4"
+  }
+}
