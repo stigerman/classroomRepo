@@ -37,7 +37,7 @@ app
   app.use('/static', express.static(__dirname + '/public'));
 
 app.get('/', function(req, res) {
-  res.send('Hello World! -WeatherRoute');
+  res.send('Hello World!');
 });
 
 module.exports.close = function() {
