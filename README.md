@@ -1,2 +1,0 @@
-# project-lemur
-Thesis Project
