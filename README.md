@@ -1,12 +1,12 @@
-# Project Name
+# Teacher Platform
 
-> Pithy project description
+A platform providing teachers better communication with parents and students. 
 
 ## Team
 
-  - __Product Owner__: teamMember
-  - __Scrum Master__: teamMember
-  - __Development Team Members__: teamMember, teamMember
+  - __Product Owner__: @operationspark
+  - __Scrum Master__: @stigerman
+  - __Development Team Members__: @stigerman, @jhonnyjblaze, @raymeibaum
 
 ## Table of Contents
 
