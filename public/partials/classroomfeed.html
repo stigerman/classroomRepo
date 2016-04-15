@@ -1,0 +1,24 @@
+<h1>Welcome to feed</h1>	
+
+<div class="container" id="question-show-container">
+  <div>
+    <div>
+      <h1>Title: {{post.title}}</h1>
+    </div>
+  </div>
+  <hr/>
+     <h1> content: {{post.content}}</h1>
+</div>
+
+<ul>
+   	 <li ng-repeat="post in posts" > 
+   	 	<ul>
+   	 		
+   	 		<li>{{post.title}}</li>
+   	 		<li>{{post.content}}</li>
+ 
+   	 	</ul>		
+   	 </li>
+   </ul>		
+
+  <div ui-view></div>

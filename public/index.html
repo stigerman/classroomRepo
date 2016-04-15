@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/styles.css">
+    <!-- JS (load angular, ui-router, and our custom js file) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.11.1/lodash.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.2/angular.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-file-upload/2.2.0/angular-file-upload.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.18/angular-ui-router.js"></script>
+    <script src="app.js"></script>
+     <style>
+            .my-drop-zone { border: dotted 3px lightgray; }
+            .nv-file-over { border: dotted 3px red; } /* Default class applied to drop zones on over */
+            .another-file-over-class { border: dotted 3px green; }
+            html, body { height: 100%; }
+        </style>
+  </head>
+    <body ng-app="app">
+
+<!-- NAVIGATION -->
+<nav class="navbar navbar-inverse" role="navigation">
+    <div class="navbar-header">
+        <a class="navbar-brand" ui-sref="#">AngularUI Router</a>
+    </div>
+    <ul class="nav navbar-nav">
+        <li><a ui-sref="home">Home</a></li>
+        <li><a ui-sref="classroom">classroom</a></li>
+        <li><a ui-sref="messages">messages</a></li>
+        <li><a ui-sref="twilio">twilio</a></li>
+    </ul>
+</nav>
+
+
+
+<!-- MAIN CONTENT -->
+<!-- <div class="container">
+    <h1>Login</h1>
+
+<div class="container">
+  <form name ="loginForm">
+
+    <div class="form-group">
+      <label>Username</label>
+      <input type="text" name="username" class="form-control" >
+    </div>
+
+    <div class="form-group">
+      <label>Password</label>
+      <input type="password" name="password" class="form-control">
+    </div>
+
+    <a href="/auth/twitter">Sign in with twitter</a>
+
+  <button type="submit" ui-sref="home" class="btn btn-primary" placeholder="Enter Info">Save</button>  -->
+  </form>  
+</div>  
+    <div ui-view></div>
+</div>
+
+</body>
+</html>
