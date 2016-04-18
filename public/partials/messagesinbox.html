@@ -1,0 +1,27 @@
+<h1>Hey there im Your inbox</h1>
+
+<a ui-sref="messages.view">View message</a>
+
+<div ng-controller="inboxController">
+	Order By: <select ng-model="sortColumn">
+				<option value="date">date Asc</option>
+				<option value="from">from Asc</option>
+				<option value="id">ID asc</option>
+				<option value="subject">subject Asc</option>
+			  </select>		
+
+   <ul>
+   	 <li ui-sref = "messages.view" ng-repeat="email in emails | orderBy: sortColumn">
+   	 	<ul>
+   	 		<a ui-sref="messages.view">View message</a>
+   	 		<li>{{email.date}}</li>
+   	 		<li>{{email.from}}</li>
+   	 		<li>{{email.id}}</li>
+   	 		<li>{{email.subject}}</li>
+
+   	 	</ul>		
+   	 </li>
+   </ul>		
+</div>
+
+<div ui-view></div>
