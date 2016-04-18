@@ -1,0 +1,488 @@
+[
+  {
+    "_id": "57140c5d468c57ba8346f63c",
+    "index": 0,
+    "guid": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Gabrielle",
+      "last": "Allen"
+    },
+    "username": "gaballen",
+    "school": "EARTHMARK",
+    "email": "gabrielle.allen@earthmark.us",
+    "phone": "+1 (864) 446-2253",
+    "classBio": "Elit amet ad sit do officia est cillum anim consectetur excepteur ea. Amet tempor do qui id ullamco aliquip nulla elit ex consectetur. Aliquip minim ea Lorem ex eu culpa sint elit aliquip duis ea nulla occaecat. Voluptate ad cillum elit incididunt dolor exercitation. Duis ea proident fugiat elit voluptate Lorem veniam pariatur eu ad do Lorem ea laborum.",
+    "guidClassroom": "7ecfa4c6-071a-4b59-a2e8-2744144dc0f6",
+    "registered": "Monday, July 21, 2014 5:50 PM",
+    "greeting": "Hello, Gabrielle! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d8e7d1c304075efec",
+    "index": 1,
+    "guid": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Cassie",
+      "last": "Pugh"
+    },
+    "username": "caspugh",
+    "school": "ROBOID",
+    "email": "cassie.pugh@roboid.net",
+    "phone": "+1 (853) 522-2884",
+    "classBio": "Eiusmod quis minim fugiat dolor proident mollit proident officia sit incididunt labore mollit proident aute. Duis do pariatur excepteur officia Lorem. Adipisicing incididunt excepteur laboris duis cupidatat incididunt tempor deserunt veniam cillum aliquip velit ullamco cupidatat. Ex deserunt aute sunt deserunt id incididunt sunt amet mollit eu eu officia ipsum commodo. Velit ex nulla ex consequat sunt magna quis anim.",
+    "guidClassroom": "0841354a-f5a1-444a-aa0f-65b7971cd1fa",
+    "registered": "Monday, April 6, 2015 2:03 PM",
+    "greeting": "Hello, Cassie! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d60e8c0c1c84e9166",
+    "index": 2,
+    "guid": "e57993ef-dd60-474d-b2be-e757bdfc5b07",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Schwartz",
+      "last": "Hinton"
+    },
+    "username": "schhinton",
+    "school": "ISOLOGIA",
+    "email": "schwartz.hinton@isologia.io",
+    "phone": "+1 (927) 489-3676",
+    "classBio": "Reprehenderit proident officia deserunt sit occaecat ut dolore anim aliqua nulla. Qui reprehenderit ullamco consequat cillum commodo aliquip aute aliqua proident laboris amet. Id do aliquip sunt Lorem sit ea labore. Duis nulla eiusmod exercitation laboris non do nisi do. Nulla ullamco sunt ut anim. Incididunt ex commodo in nisi ut incididunt officia officia eiusmod. Deserunt est commodo veniam dolore non ea sunt aliqua.",
+    "guidClassroom": "7396dd1f-85dd-4d3c-a8f9-dc0a7ba53ddc",
+    "registered": "Thursday, October 9, 2014 3:59 PM",
+    "greeting": "Hello, Schwartz! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d840d1c7d81f8bd98",
+    "index": 3,
+    "guid": "2252e5e4-039d-45a2-9b71-d088b73688f5",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Kerr",
+      "last": "Byers"
+    },
+    "username": "kerbyers",
+    "school": "ZENTIX",
+    "email": "kerr.byers@zentix.ca",
+    "phone": "+1 (977) 572-3956",
+    "classBio": "Incididunt quis cillum ut magna magna ipsum reprehenderit pariatur sunt. Ex ipsum non incididunt elit ipsum ad nisi nostrud aliquip magna laboris. Qui laboris sint magna exercitation qui. Sunt Lorem voluptate sit aliquip laborum est nulla veniam ipsum minim reprehenderit Lorem adipisicing do. Velit esse eiusmod do dolore ut duis et esse dolor exercitation.",
+    "guidClassroom": "5ef20f68-17ad-4e86-93f9-5f115895032e",
+    "registered": "Wednesday, March 2, 2016 3:03 AM",
+    "greeting": "Hello, Kerr! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5df3d7950fb9831365",
+    "index": 4,
+    "guid": "98f3d6f3-3caf-4a64-a414-d10745fa72e4",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Mildred",
+      "last": "Campos"
+    },
+    "username": "milcampos",
+    "school": "ROTODYNE",
+    "email": "mildred.campos@rotodyne.tv",
+    "phone": "+1 (807) 543-2306",
+    "classBio": "Mollit ex fugiat excepteur dolor exercitation qui id officia ea esse cupidatat id est. Eiusmod irure sint laboris elit. Pariatur aliquip voluptate anim et eu elit quis nulla excepteur. Excepteur amet anim cupidatat ea voluptate dolor ex anim. Ullamco tempor aliqua nostrud aliquip quis commodo in amet exercitation.",
+    "guidClassroom": "db60888b-4948-480b-89e4-0d10a84524e5",
+    "registered": "Saturday, March 15, 2014 1:52 AM",
+    "greeting": "Hello, Mildred! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5dea54f17306139924",
+    "index": 5,
+    "guid": "efd74df5-3be4-4a59-885e-2d6bd302e0d4",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Delgado",
+      "last": "Hampton"
+    },
+    "username": "delhampton",
+    "school": "ZORK",
+    "email": "delgado.hampton@zork.co.uk",
+    "phone": "+1 (959) 415-2409",
+    "classBio": "Elit minim est minim labore deserunt irure consequat esse consectetur ullamco velit enim. Nostrud sunt aute culpa eiusmod velit id consectetur qui cupidatat exercitation proident. Duis laboris tempor nostrud minim culpa irure deserunt esse laboris officia exercitation exercitation.",
+    "guidClassroom": "2c398adf-f494-46ca-9fa5-24a5aafa7f97",
+    "registered": "Saturday, May 9, 2015 9:54 AM",
+    "greeting": "Hello, Delgado! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d99f330ce6dff5ed5",
+    "index": 6,
+    "guid": "11961ca5-1a7e-49a2-bc39-e476e7e8d367",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Addie",
+      "last": "Holloway"
+    },
+    "username": "addholloway",
+    "school": "COMVEYER",
+    "email": "addie.holloway@comveyer.biz",
+    "phone": "+1 (818) 565-2364",
+    "classBio": "Minim excepteur deserunt dolor occaecat proident voluptate consequat fugiat incididunt occaecat deserunt ea do commodo. Duis elit reprehenderit non dolor proident pariatur amet adipisicing et voluptate magna. Magna quis pariatur esse consectetur ipsum minim cupidatat. Nulla irure anim sint nostrud ullamco dolor consequat ea nulla exercitation et. Exercitation duis amet aute id ex enim esse minim excepteur fugiat enim quis minim anim. Anim aliquip magna dolor amet sunt in velit nisi incididunt consectetur deserunt ullamco. Ea reprehenderit enim elit nisi.",
+    "guidClassroom": "fd23a7c5-6709-4eec-ae17-de72617ef19f",
+    "registered": "Thursday, August 7, 2014 8:30 PM",
+    "greeting": "Hello, Addie! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d8e809854d9e9414b",
+    "index": 7,
+    "guid": "4c7c09b4-2f71-4736-922c-5ae6184304b7",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Augusta",
+      "last": "Malone"
+    },
+    "username": "augmalone",
+    "school": "ECOSYS",
+    "email": "augusta.malone@ecosys.name",
+    "phone": "+1 (880) 545-2240",
+    "classBio": "Cillum pariatur eiusmod nostrud occaecat. Consectetur irure reprehenderit anim cupidatat occaecat consequat tempor. Proident elit reprehenderit cupidatat irure proident anim eiusmod culpa officia.",
+    "guidClassroom": "683d79f9-23e8-433d-bd90-6e4ba475a291",
+    "registered": "Saturday, November 8, 2014 6:41 PM",
+    "greeting": "Hello, Augusta! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d155475c97a923f69",
+    "index": 8,
+    "guid": "e59d808f-e7f1-416e-9d98-56fccba9d2b8",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Armstrong",
+      "last": "Davidson"
+    },
+    "username": "armdavidson",
+    "school": "LUDAK",
+    "email": "armstrong.davidson@ludak.com",
+    "phone": "+1 (870) 453-2917",
+    "classBio": "Officia consequat duis in excepteur sint commodo do. Ipsum elit dolor laboris anim eu magna laborum pariatur incididunt. Sit dolore eiusmod veniam non occaecat incididunt. Aliqua id dolor laboris laborum fugiat duis aute laboris incididunt labore. Esse sunt magna nostrud ut occaecat commodo sit. Sint sint mollit nostrud commodo dolore nostrud eiusmod dolore ut non. Dolore cupidatat aliquip officia sit ad eiusmod nulla est dolor velit id.",
+    "guidClassroom": "4368cd15-1869-4315-96b3-f37dca29c4d2",
+    "registered": "Sunday, March 20, 2016 4:27 AM",
+    "greeting": "Hello, Armstrong! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5dd545c1de93178c3e",
+    "index": 9,
+    "guid": "7c0badc3-a531-4740-bc22-e6c92a9785a8",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Lucy",
+      "last": "Simpson"
+    },
+    "username": "lucsimpson",
+    "school": "PRINTSPAN",
+    "email": "lucy.simpson@printspan.me",
+    "phone": "+1 (988) 427-2670",
+    "classBio": "Mollit proident proident ea voluptate nisi sit cupidatat et cupidatat pariatur reprehenderit amet. Velit esse laborum laborum culpa enim ipsum. Do cillum exercitation cillum exercitation commodo nisi sint ad adipisicing veniam qui dolore tempor id. Enim id consequat laborum nisi tempor amet aliquip aliqua anim consectetur reprehenderit.",
+    "guidClassroom": "e527e954-f2c9-4a3b-aa4d-c4f2f0e91f2a",
+    "registered": "Saturday, November 8, 2014 11:59 PM",
+    "greeting": "Hello, Lucy! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d9eebd980a9edf0c2",
+    "index": 10,
+    "guid": "19663d57-c936-42de-944d-e7796bdb9887",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Lucas",
+      "last": "Robertson"
+    },
+    "username": "lucrobertson",
+    "school": "OPPORTECH",
+    "email": "lucas.robertson@opportech.org",
+    "phone": "+1 (880) 540-2712",
+    "classBio": "Est ea sunt culpa anim commodo exercitation irure eiusmod fugiat. Proident culpa fugiat sunt magna. Tempor non irure eiusmod consequat nisi dolore exercitation elit nisi nisi ex exercitation. Fugiat adipisicing aliqua est qui.",
+    "guidClassroom": "aa837304-da36-4465-b37e-e6fde8c8d787",
+    "registered": "Thursday, April 14, 2016 8:53 AM",
+    "greeting": "Hello, Lucas! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5de10cc15d45d97ec1",
+    "index": 11,
+    "guid": "039dec26-bcd0-4f76-a0e7-e7581c9edb6c",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Johnnie",
+      "last": "Moody"
+    },
+    "username": "johmoody",
+    "school": "COMBOGEN",
+    "email": "johnnie.moody@combogen.info",
+    "phone": "+1 (898) 479-2775",
+    "classBio": "Magna sit labore irure labore est occaecat. Eiusmod reprehenderit deserunt aliqua irure officia ipsum dolor officia qui exercitation labore exercitation mollit. Velit eiusmod aliqua incididunt consectetur sunt ex irure in laboris sint voluptate id nostrud minim. Magna sint in quis sit adipisicing. Dolor labore Lorem est aute laboris cupidatat occaecat labore esse sint sint adipisicing sunt. Excepteur ut consectetur minim et commodo pariatur. Laborum irure anim quis aute id anim culpa occaecat sint.",
+    "guidClassroom": "bd986af6-51e0-4a83-a6ae-753d7a46e44d",
+    "registered": "Wednesday, September 17, 2014 9:00 AM",
+    "greeting": "Hello, Johnnie! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d3904f47e3a6dc623",
+    "index": 12,
+    "guid": "a41da7c7-74c2-4b8f-92b9-07b480bc1227",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Rice",
+      "last": "Fitzpatrick"
+    },
+    "username": "ricfitzpatrick",
+    "school": "COMCUR",
+    "email": "rice.fitzpatrick@comcur.us",
+    "phone": "+1 (932) 522-3888",
+    "classBio": "Tempor id id ut ex ullamco irure sit nisi duis. Duis aliquip labore nulla sint sit laboris ullamco occaecat aliqua. Elit est esse ex irure ex pariatur nostrud anim id. Nostrud labore nulla enim anim consectetur Lorem minim eiusmod pariatur do do. Voluptate labore dolore sit nisi laborum fugiat. Duis sunt pariatur elit voluptate nostrud id dolor commodo. Laborum dolor velit quis non duis cupidatat eiusmod sunt.",
+    "guidClassroom": "c67b1409-3744-4f61-b5a6-86bc83aaf7fc",
+    "registered": "Sunday, August 23, 2015 2:46 PM",
+    "greeting": "Hello, Rice! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d6d8dd161caa5d4ba",
+    "index": 13,
+    "guid": "1c686997-179d-4e2e-ac78-8afe52f10f2d",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Molly",
+      "last": "Randall"
+    },
+    "username": "molrandall",
+    "school": "ZILIDIUM",
+    "email": "molly.randall@zilidium.net",
+    "phone": "+1 (976) 454-3059",
+    "classBio": "Aute labore adipisicing sit ullamco veniam. Mollit aute id adipisicing labore amet id tempor dolor ut. Sunt commodo ipsum sit enim aliquip est occaecat minim sunt anim eu. Labore enim excepteur nisi laboris pariatur sit ad esse dolore sunt nisi labore anim excepteur. Excepteur nulla minim dolore anim pariatur mollit cupidatat pariatur. Amet eiusmod ipsum cillum non minim nulla laboris excepteur laborum anim excepteur.",
+    "guidClassroom": "de7bd1d2-c999-4c97-bc7c-0569d93d6a61",
+    "registered": "Sunday, July 27, 2014 10:51 PM",
+    "greeting": "Hello, Molly! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d380708cb962993c8",
+    "index": 14,
+    "guid": "430c53d7-316b-4ee6-938e-28dd0bd4ffa9",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Lowe",
+      "last": "Stout"
+    },
+    "username": "lowstout",
+    "school": "KINETICA",
+    "email": "lowe.stout@kinetica.io",
+    "phone": "+1 (851) 478-3139",
+    "classBio": "Ipsum amet occaecat duis sit ad sint laborum irure tempor aute excepteur proident reprehenderit nostrud. Ea dolore pariatur cupidatat nisi enim. Dolor aute commodo ipsum do voluptate ad in sit deserunt do adipisicing proident ea. Aliquip eu duis voluptate ad ea fugiat reprehenderit sit occaecat fugiat nulla sit.",
+    "guidClassroom": "627a7de8-d6a0-4139-830e-6b038739e1de",
+    "registered": "Monday, January 26, 2015 7:12 AM",
+    "greeting": "Hello, Lowe! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d28a12f29d2e72142",
+    "index": 15,
+    "guid": "64212a03-5f04-4469-a6ff-dfb0689a6e22",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Frieda",
+      "last": "Mccullough"
+    },
+    "username": "frimccullough",
+    "school": "QUARMONY",
+    "email": "frieda.mccullough@quarmony.ca",
+    "phone": "+1 (986) 421-2655",
+    "classBio": "Ea anim veniam adipisicing consectetur duis duis reprehenderit eiusmod irure aliquip officia aute exercitation sit. Ipsum voluptate elit elit est nulla. Officia ut nostrud eu cillum consectetur ad enim sint.",
+    "guidClassroom": "faa87036-a795-4b29-a875-22c89987f376",
+    "registered": "Sunday, November 23, 2014 6:34 PM",
+    "greeting": "Hello, Frieda! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5da445ce974b852af2",
+    "index": 16,
+    "guid": "d2868f40-2afe-4433-8b85-6844bbd5aecb",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Rhonda",
+      "last": "Johns"
+    },
+    "username": "rhojohns",
+    "school": "NIKUDA",
+    "email": "rhonda.johns@nikuda.tv",
+    "phone": "+1 (986) 566-3885",
+    "classBio": "Velit quis deserunt cillum eu in ad quis ad ut nulla. Nisi nisi enim ipsum dolore nisi non ad ut occaecat est ullamco cillum. Irure cillum ex ipsum sunt sint Lorem ipsum tempor sunt voluptate consectetur excepteur. Proident consectetur nulla est deserunt magna in et est ut veniam non aliqua. Eiusmod ea consectetur quis pariatur veniam occaecat voluptate sint. Cupidatat elit amet minim ad qui irure laborum Lorem proident esse exercitation cupidatat non. Sunt do cillum excepteur consequat ipsum eu ad elit adipisicing laboris et minim exercitation do.",
+    "guidClassroom": "f82c70ab-9beb-4823-abe2-acf3739a4f6d",
+    "registered": "Friday, September 5, 2014 7:52 PM",
+    "greeting": "Hello, Rhonda! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d4a6e9bc959e20272",
+    "index": 17,
+    "guid": "282ce608-529c-4c0c-b2a7-81ab632f2b5e",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Celia",
+      "last": "Carroll"
+    },
+    "username": "celcarroll",
+    "school": "APEX",
+    "email": "celia.carroll@apex.co.uk",
+    "phone": "+1 (868) 483-3445",
+    "classBio": "Sit aute enim cupidatat elit dolor mollit eiusmod duis quis. Tempor pariatur veniam esse ad Lorem amet adipisicing officia aute est occaecat duis eiusmod minim. Esse nisi elit adipisicing adipisicing. Aliqua excepteur irure elit minim esse consectetur dolore ex nostrud tempor eu officia velit.",
+    "guidClassroom": "5c5fcaf2-bf7a-42f9-ada2-129ce6f59f46",
+    "registered": "Wednesday, December 23, 2015 8:19 AM",
+    "greeting": "Hello, Celia! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5deddcd7109c9bbc34",
+    "index": 18,
+    "guid": "f7a4dfbb-51c6-444d-a8a8-c2a88528f56e",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Daisy",
+      "last": "Ramos"
+    },
+    "username": "dairamos",
+    "school": "MIRACULA",
+    "email": "daisy.ramos@miracula.biz",
+    "phone": "+1 (894) 413-2448",
+    "classBio": "Veniam quis et enim ut tempor. Quis proident ullamco non ut commodo duis. In eiusmod excepteur laboris aute id reprehenderit laborum minim commodo velit dolore excepteur sint aliqua.",
+    "guidClassroom": "0fecddfd-3fa0-4d25-be1e-612f42ca799e",
+    "registered": "Wednesday, September 2, 2015 7:39 PM",
+    "greeting": "Hello, Daisy! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d8539e85891fb00f7",
+    "index": 19,
+    "guid": "00aa1b47-c44b-49a5-912d-6773e5eac05a",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Misty",
+      "last": "Griffith"
+    },
+    "username": "misgriffith",
+    "school": "MANTRO",
+    "email": "misty.griffith@mantro.name",
+    "phone": "+1 (815) 476-2374",
+    "classBio": "Nisi eiusmod esse duis ullamco anim laboris sunt. Consequat excepteur deserunt incididunt incididunt id veniam non do quis sint quis minim velit. Sit nulla labore deserunt elit magna pariatur exercitation fugiat in minim incididunt duis enim do. Ut do sunt in eiusmod sit tempor minim amet aute aliquip enim esse. Labore irure laboris reprehenderit Lorem cupidatat cillum id irure magna velit. Ipsum nostrud laborum amet magna incididunt ut nisi in adipisicing sit laboris consequat ad ut. Ea occaecat labore mollit consequat non exercitation ad quis sit non nulla irure duis.",
+    "guidClassroom": "1b7babf3-82f6-4181-9628-2d2faac62621",
+    "registered": "Monday, June 2, 2014 7:50 AM",
+    "greeting": "Hello, Misty! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d144013e3c43cd1f3",
+    "index": 20,
+    "guid": "91a7d19a-59c8-4868-8e0c-4f94399db125",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Tracy",
+      "last": "Dillon"
+    },
+    "username": "tradillon",
+    "school": "ZOSIS",
+    "email": "tracy.dillon@zosis.com",
+    "phone": "+1 (899) 511-3762",
+    "classBio": "Ea commodo consectetur cillum dolor irure ipsum pariatur veniam irure adipisicing reprehenderit. Qui sunt mollit mollit culpa cillum laborum sunt consequat consectetur fugiat officia eu nulla. Ea aliquip sint duis exercitation qui tempor. Culpa nostrud labore reprehenderit est aliquip culpa sint ex non dolore irure.",
+    "guidClassroom": "c1e13f77-e1d7-4506-9315-7ed9b81068a3",
+    "registered": "Friday, December 4, 2015 10:13 PM",
+    "greeting": "Hello, Tracy! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5da5468f592f060763",
+    "index": 21,
+    "guid": "246a0709-7efb-4efb-9c02-aebcfd0eebe7",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Gill",
+      "last": "Haney"
+    },
+    "username": "gilhaney",
+    "school": "FILODYNE",
+    "email": "gill.haney@filodyne.me",
+    "phone": "+1 (853) 427-3889",
+    "classBio": "Commodo labore culpa et ex tempor exercitation aute. Et exercitation velit aliqua labore pariatur sint. Lorem nostrud deserunt aute elit ut laborum laboris ullamco commodo nulla laborum aliqua. Magna in sunt ipsum adipisicing excepteur nulla. Aliqua laborum ut proident reprehenderit consequat velit mollit irure ullamco cillum nostrud ea. Magna nulla irure esse ex. Duis reprehenderit duis esse eu id eu.",
+    "guidClassroom": "eda21249-b522-4234-b593-69f473b7ad41",
+    "registered": "Wednesday, February 3, 2016 7:43 PM",
+    "greeting": "Hello, Gill! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5dba3e1a9ef8903da8",
+    "index": 22,
+    "guid": "e205bebd-8b87-4eb8-a9bd-3c710bff2730",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Maude",
+      "last": "Sosa"
+    },
+    "username": "mausosa",
+    "school": "ISOPOP",
+    "email": "maude.sosa@isopop.org",
+    "phone": "+1 (906) 600-3955",
+    "classBio": "In labore dolore culpa velit aliquip pariatur irure. Duis consequat dolor in velit. Veniam dolore dolore et commodo eiusmod est Lorem aute.",
+    "guidClassroom": "178ff6e7-2a8d-46a0-baa5-75547102d91e",
+    "registered": "Saturday, March 22, 2014 2:29 AM",
+    "greeting": "Hello, Maude! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d1b173e77ae49e239",
+    "index": 23,
+    "guid": "70d0ef56-d6f8-47a5-b710-0d7aac555142",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Willis",
+      "last": "Cruz"
+    },
+    "username": "wilcruz",
+    "school": "ZENSURE",
+    "email": "willis.cruz@zensure.info",
+    "phone": "+1 (947) 516-3568",
+    "classBio": "Fugiat anim deserunt commodo sit labore aliquip anim nostrud deserunt. Aute proident qui aliquip irure ad minim esse deserunt adipisicing cupidatat sunt quis minim. Quis ea mollit eu est amet qui qui Lorem deserunt cillum nulla dolore. Pariatur eu pariatur est reprehenderit incididunt deserunt.",
+    "guidClassroom": "5382456e-d22c-44f7-9748-be87a33308eb",
+    "registered": "Monday, December 7, 2015 5:57 PM",
+    "greeting": "Hello, Willis! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d115c83322f1b1741",
+    "index": 24,
+    "guid": "ef89df3e-2e48-4a39-a376-9f0f4ac0a79f",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Lori",
+      "last": "Ellis"
+    },
+    "username": "lorellis",
+    "school": "BRAINQUIL",
+    "email": "lori.ellis@brainquil.us",
+    "phone": "+1 (994) 573-2695",
+    "classBio": "Reprehenderit deserunt est nostrud magna incididunt pariatur. Et duis incididunt aliquip consequat commodo officia ex anim ea proident. Deserunt officia mollit anim ut. Occaecat ullamco non laborum non tempor non tempor elit. Id consectetur id commodo deserunt magna consectetur officia. Duis laboris nisi aliqua ullamco incididunt cillum eu exercitation irure commodo.",
+    "guidClassroom": "79c53136-f148-4a4c-8266-b3b1c9fe05b2",
+    "registered": "Tuesday, July 14, 2015 1:44 AM",
+    "greeting": "Hello, Lori! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d4d94d10adf703b20",
+    "index": 25,
+    "guid": "9f3aaa7c-f567-4584-a7c6-bf159074b2b6",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Carrillo",
+      "last": "Glenn"
+    },
+    "username": "carglenn",
+    "school": "SKYBOLD",
+    "email": "carrillo.glenn@skybold.net",
+    "phone": "+1 (993) 515-3512",
+    "classBio": "Ut sit eiusmod non ipsum aliqua fugiat dolor ullamco. Irure consequat sint ea labore culpa laboris velit. Eiusmod est adipisicing aute dolor in nulla. Labore veniam anim id velit commodo et labore incididunt reprehenderit officia ut duis amet nulla. Anim dolore aliqua id dolor amet ullamco pariatur pariatur ullamco fugiat exercitation.",
+    "guidClassroom": "c06836d5-6326-47a0-9cbf-cbb79d702b3f",
+    "registered": "Thursday, October 22, 2015 9:02 PM",
+    "greeting": "Hello, Carrillo! You have the heart of a champion."
+  },
+  {
+    "_id": "57140c5d6ab8b715226e8fd7",
+    "index": 26,
+    "guid": "ba79b659-1179-4aef-8ba3-386b0a98c9a7",
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Glass",
+      "last": "Carpenter"
+    },
+    "username": "glacarpenter",
+    "school": "BLUPLANET",
+    "email": "glass.carpenter@bluplanet.io",
+    "phone": "+1 (853) 421-3770",
+    "classBio": "Quis labore ad aliqua ullamco eiusmod consequat laborum occaecat laboris reprehenderit sunt. Sunt pariatur duis amet qui in non ex. Consectetur sit commodo elit incididunt. Nisi deserunt dolore ea officia eiusmod eu proident eiusmod reprehenderit magna do et reprehenderit cillum. Esse nostrud exercitation ullamco irure tempor quis incididunt elit elit Lorem est dolor. Id excepteur minim aliquip esse labore consequat dolore sunt ea minim elit occaecat eu pariatur.",
+    "guidClassroom": "3ffaefd9-451a-48e0-bf41-80aa4b6a05f5",
+    "registered": "Friday, September 11, 2015 12:32 PM",
+    "greeting": "Hello, Glass! You have the heart of a champion."
+  }
+]

@@ -1,0 +1,373 @@
+//"username": "gaballen", --> students
+
+[
+  {
+    "_id": "571413186489bb00e624cf80",
+    "index": 0,
+    "guid": "fdd2294e-8812-4444-aa07-b49d6d31ba7e",
+    "name": {
+      "first": "Mooney",
+      "last": "Dalton"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "57141318eaf1b80cb020f9ed",
+    "index": 1,
+    "guid": "4d21906f-3ab5-449f-aa0c-87ca3dd4b71f",
+    "name": {
+      "first": "Collier",
+      "last": "Rhodes"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "5714131876e9c87f2bffecb8",
+    "index": 2,
+    "guid": "cbf91dde-9b0f-42d1-889c-d830890136f7",
+    "name": {
+      "first": "Reid",
+      "last": "Flynn"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "57141318b85b9ed32c12fdef",
+    "index": 3,
+    "guid": "8de0b5da-d7f1-4a57-81a1-269bc8b81633",
+    "name": {
+      "first": "Lacy",
+      "last": "Estes"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "571413189334d6852c47fd8d",
+    "index": 4,
+    "guid": "51dcddf1-6b7e-4100-8b3a-acd24486844f",
+    "name": {
+      "first": "Pauline",
+      "last": "Hines"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "5714131863e171d3e50ea875",
+    "index": 5,
+    "guid": "881cfbc6-9350-4bbb-a69b-a06e5dbf6a13",
+    "name": {
+      "first": "Pearl",
+      "last": "Walton"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "571413184df0cdd67b30476a",
+    "index": 6,
+    "guid": "08b82e97-b47e-42e1-87c8-5c4d4274d0ee",
+    "name": {
+      "first": "Juliette",
+      "last": "Snow"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "5714131819a4e7d558185451",
+    "index": 7,
+    "guid": "1a392ff2-668c-4022-8dc5-7a5368417216",
+    "name": {
+      "first": "Isabel",
+      "last": "Bonner"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "57141318002c0a832d045ea9",
+    "index": 8,
+    "guid": "fa85946a-d719-4be8-8e62-7865d12a9d21",
+    "name": {
+      "first": "Jeannette",
+      "last": "Beach"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "57141318bab47f2891e68756",
+    "index": 9,
+    "guid": "a69f4a68-59c6-4913-be7b-1c8003807214",
+    "name": {
+      "first": "Fox",
+      "last": "Dorsey"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "57141318acf04ab7178f9201",
+    "index": 10,
+    "guid": "2e6efbfa-697c-4093-8466-fd8293ca4548",
+    "name": {
+      "first": "Charlene",
+      "last": "Chapman"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "57141318d6b72ebb95149e09",
+    "index": 11,
+    "guid": "c41fc424-9fa0-46d2-acba-5508900acbe4",
+    "name": {
+      "first": "Carlene",
+      "last": "Collier"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "57141318c2efbf9fcff9a863",
+    "index": 12,
+    "guid": "9ad8f588-dd86-4eaa-82db-24ab7cfb0850",
+    "name": {
+      "first": "Adeline",
+      "last": "Chase"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "571413181604bb5c17222e02",
+    "index": 13,
+    "guid": "1ca3e391-ca03-4212-8ca7-858ad5ec4aa6",
+    "name": {
+      "first": "Molina",
+      "last": "Shannon"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "57141318114fd9fcadbc3d03",
+    "index": 14,
+    "guid": "f3acc1c3-8e33-4aa3-b473-1116ab937adb",
+    "name": {
+      "first": "Phillips",
+      "last": "Skinner"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "57141318d2a062f5a16bc148",
+    "index": 15,
+    "guid": "18b7ad97-f5fc-4639-8915-39a8242b4c15",
+    "name": {
+      "first": "Whitaker",
+      "last": "Jones"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "5714131898d89501087bce42",
+    "index": 16,
+    "guid": "43bdc843-089c-4974-93e4-b6734c80ea5b",
+    "name": {
+      "first": "Strickland",
+      "last": "Estrada"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  },
+  {
+    "_id": "57141318c923d8d91cc54505",
+    "index": 17,
+    "guid": "55851cee-b314-4bfe-9c16-a75050e27ab2",
+    "name": {
+      "first": "Lawrence",
+      "last": "Combs"
+    },
+    "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0"
+  }
+]
+
+
+
+
+
+//"username": "caspugh", --> students  
+
+[
+  {
+    "_id": "571415ee09136ccda5a5f3b7",
+    "index": 0,
+    "guid": "aadf069c-9b9b-4bf0-8e74-6cc5de5811f7",
+    "name": {
+      "first": "Guy",
+      "last": "Lewis"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415ee18ccf51cd51f5912",
+    "index": 1,
+    "guid": "c75197a8-821f-4fef-b219-f42ea15bb486",
+    "name": {
+      "first": "Cassandra",
+      "last": "Murray"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415eec87e01841986ee86",
+    "index": 2,
+    "guid": "61c24529-8089-43e9-af4e-c7826abe7aa6",
+    "name": {
+      "first": "Adriana",
+      "last": "Livingston"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415ee5c7f45ed8322d051",
+    "index": 3,
+    "guid": "031e1086-74cb-4973-ac1e-a55e7bf4abc4",
+    "name": {
+      "first": "Lenore",
+      "last": "Huber"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415eec38ac23dc8dd5d1a",
+    "index": 4,
+    "guid": "462993f0-869c-407e-92e7-a816944b6aed",
+    "name": {
+      "first": "Barron",
+      "last": "Weeks"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415eef26fc08601b02ca3",
+    "index": 5,
+    "guid": "4204dc5b-111b-4917-aa47-393b6a06d56b",
+    "name": {
+      "first": "Nola",
+      "last": "Stein"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415ee6e9f2ba0fefa1f29",
+    "index": 6,
+    "guid": "c182ea5c-bbf6-4d9d-9a6c-94acd0e6b06f",
+    "name": {
+      "first": "Patricia",
+      "last": "Sosa"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415ee151a60ac35156d76",
+    "index": 7,
+    "guid": "e34cb334-636d-4244-8269-bde3ac702d85",
+    "name": {
+      "first": "Deidre",
+      "last": "Harvey"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415eef8f7476a7de611f9",
+    "index": 8,
+    "guid": "dcc9777e-9bfd-4e7c-8d1b-d0a84a6634e8",
+    "name": {
+      "first": "Joyner",
+      "last": "Rocha"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415eec4f925b77370dfb9",
+    "index": 9,
+    "guid": "78c7824d-699f-4c83-bc98-3e69c08172c5",
+    "name": {
+      "first": "Thornton",
+      "last": "Vargas"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415ee3b09d183e1cf9809",
+    "index": 10,
+    "guid": "4ee3ccac-5ea6-49a8-8e4f-3d0053ca5589",
+    "name": {
+      "first": "Tamra",
+      "last": "Franks"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415eedbd9a1f6a4f8b9e0",
+    "index": 11,
+    "guid": "82bec421-65ae-48c1-aece-e44ab8694c7a",
+    "name": {
+      "first": "Blackwell",
+      "last": "Richards"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415ee09414e876da9fe37",
+    "index": 12,
+    "guid": "da59be43-7910-4e8d-9ad7-80a4a437e2a3",
+    "name": {
+      "first": "Miranda",
+      "last": "Guthrie"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415ee00f024fe3fb5ef77",
+    "index": 13,
+    "guid": "3cec5705-d47b-4b2b-ac53-856a70c518f1",
+    "name": {
+      "first": "Morton",
+      "last": "Witt"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415ee4936aa39d019ad28",
+    "index": 14,
+    "guid": "415d906e-550e-4223-bce8-9e7eb7add461",
+    "name": {
+      "first": "Marshall",
+      "last": "Hatfield"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415eed095433ca2a4065a",
+    "index": 15,
+    "guid": "bc557ade-ea41-4bf2-b359-c5c2689a85a4",
+    "name": {
+      "first": "Evans",
+      "last": "Bullock"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415eec1fadb44ec497abc",
+    "index": 16,
+    "guid": "1a0835d9-003a-4739-87da-ad0e4080fbc8",
+    "name": {
+      "first": "Marietta",
+      "last": "Obrien"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  },
+  {
+    "_id": "571415ee0e65660fc6feefc7",
+    "index": 17,
+    "guid": "2dee0fd3-232f-4629-96a5-f84352b7310a",
+    "name": {
+      "first": "Ana",
+      "last": "Greene"
+    },
+    "guidTeacher": "23fd96a7-6b10-49d3-91e3-7f6bb0b21f11"
+  }
+]
