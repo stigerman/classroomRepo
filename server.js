@@ -22,12 +22,12 @@ let
   FileStore = sessionFileStore(session);
 
 
-mongoose.connect('mongodb://localhost:27017/thesis');
- var User = require('./model/user');  
+mongoose.connect('mongodb://heroku_39lsqb3n:ocdue91uvi2ndsqmk9mv0ns54a@ds011291.mlab.com:11291/heroku_39lsqb3n');
+ var User = require('./model/user');
  var Post = require('./model/post');
- var upload = require('./uploadcontroller');  
+ var upload = require('./uploadcontroller');
 
-require('./public/config/passport');  
+require('./public/config/passport');
 
 app
   .use(morgan('dev'))
@@ -118,7 +118,7 @@ app.get('/feed', function(req, res){
 
 
 app.post('/login', function(req,res){
-  User.find({ 
+  User.find({
     username: req.body.username,
     email: req.body.email
   })
