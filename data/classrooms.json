@@ -1,0 +1,101 @@
+//"username": "gaballen", --> classroom
+[
+    {
+        "_id": "57145f9d6f6f1e2163ebeac9",
+        "index": 0, 
+        "guid": "7ecfa4c6-071a-4b59-a2e8-2744144dc0f6",
+        "guidTeacher": "9259b695-4f7f-44ab-980c-c8f7ac22d5a0",
+        "gaurdians": 
+            [
+                {"guidGuardian": "71c4a3f0-3105-44e0-9694-bce8a55d7aee"}, 
+                {"guidGuardian": "e013e408-7f30-45ee-aa21-476eed95aeee"}, 
+                {"guidGuardian": "f0fe7ec3-ec67-448d-b244-cda8d4749d13"}, 
+                {"guidGuardian": "6e0fb0e2-d2a7-4a8a-be8c-affde127b56d"}, 
+                {"guidGuardian": "71c53971-09fb-4829-81d7-f1bb54717e05"},
+                {"guidGuardian": "03d93040-7e45-4bdc-8838-45525ad84cc7"},
+                {"guidGuardian": "fa1e89b9-1ceb-46ef-a43d-d967b9af775c"},
+                {"guidGuardian": "de3682c5-d2a6-4b42-96a6-098536d20c8c"},
+                {"guidGuardian": "b9cb6368-0f99-4dec-b877-35c879373519"},
+                {"guidGuardian": "616b9e5b-defe-494e-9a55-a53c756fb491"},
+                {"guidGuardian": "bf8d2648-dc0d-4fbe-9565-058543795bef"},
+                {"guidGuardian": "cc4b24dd-91a2-4c70-8b57-9b108c19cf09"},
+                {"guidGuardian": "ebf657c8-4da9-4df2-be4b-afb6ec03babc"},
+                {"guidGuardian": "bbc1ca0e-56dd-45e2-a77e-c86a963c7835"},
+                {"guidGuardian": "c7d43717-cc0d-4771-ba70-2c4321e1703e"},
+                {"guidGuardian": "aa3cfdbd-bc3b-4187-8634-5c8a8436a128"},
+                {"guidGuardian": "971a2248-db70-4e44-a6eb-717bb84da82c"},
+                {"guidGuardian": "c36de605-3c18-49e4-8c8f-90d76ee6abb5"},
+                {"guidGuardian": "9f09312b-19ab-44d7-b3b2-663762316485"},
+                {"guidGuardian": "1d9b030a-fa37-4e76-81ae-2f8b6c4b0f0d"},
+                {"guidGuardian": "1a71db9d-cac4-4aad-9e1f-bbbffddc8f2e"},
+                {"guidGuardian": "013e8111-b281-4161-af9f-9c0003145c11"},
+                {"guidGuardian": "70eb4365-0e39-409a-9e75-48887b1d6eb1"},
+                {"guidGuardian": "43a43e2a-1dc0-4c91-a426-49ec31a37f70"},
+                {"guidGuardian": "54b5a8db-a8ac-4d94-8922-acb7d06c442a"},
+                {"guidGuardian": "e7186ed9-2ce4-4b93-a3ce-1c39a5eebc42"},
+                {"guidGuardian": "7e175049-5af5-44ea-843b-672f9f3e5194"},
+                {"guidGuardian": "6c4fa6c4-104e-41e6-b6cb-2f4431d43eed"},
+                {"guidGuardian": "97ab59c5-513d-4a82-b276-96b150d2cd49"},
+                {"guidGuardian": "27a7193d-26c7-4e35-9c1f-9a67ba026037"},
+                {"guidGuardian": "4db71fe1-f653-4881-8b62-43e43c686476"},
+                {"guidGuardian": "d07209f1-ab29-4595-b966-3d675e09bd03"},
+                {"guidGuardian": "03fb7bac-cebe-4675-9e9d-1c16a0833a62"},
+                {"guidGuardian": "5b12f779-f03f-4d41-a934-2591631033c5"},
+                {"guidGuardian": "bd409aaf-abc6-48cd-8fd1-8e8e88fcf3da"},
+                {"guidGuardian": "b679997f-c42e-4097-b75d-cb63b7403736"}
+            ],
+        "messages": 
+            [
+                { "guidMessage": "d6a82e77-802d-476e-81cd-243ccf67371d" }, 
+                { "guidMessage": "285c82c2-2d0d-49d0-b106-e97bb8263364" },
+                { "guidMessage": "5e1360d2-780e-492a-901d-d47b33bdd5f1" },
+                { "guidMessage": "28b49317-88e9-4f72-b936-925c8f2d1867" }
+            ],
+        "calendar": 
+            [
+                {
+                    "view": "daily",
+                    "day": 10,
+                    "month": "May",
+                    "year": 2016
+                }, 
+                {
+                    "view": "weekly",
+                    "day": 10,
+                    "week": 2,
+                    "month": "May",
+                    "year": 2016
+                }, 
+                {
+                    "view": "monthly",
+                    "day": 10,
+                    "month": "May",
+                    "year": 2016
+                }
+            ],
+        "wishlist": 
+            [
+                {
+                    "_id": "571458f8e0d99c6fc3af9319",
+                    "index": 0,
+                    "guid": "9f779048-3b07-4f2b-8c50-966adb8fa785",
+                    "item": "Chromebook",
+                    "value": 149.99
+                }, 
+                {
+                    "_id": "571458f880b48a28ce8229e2",
+                    "index": 1,
+                    "guid": "075cdcb7-dcfb-4e5b-a02a-e2ea82cc56b6",
+                    "item": "Child's Bean Bag Chair",
+                    "value": 39.99
+                }, 
+                {
+                    "_id": "571458f88a7b44ea81e1e6ff",
+                    "index": 2,
+                    "guid": "900868b8-8c3c-41dc-82db-b4f83597af81",
+                    "item": "10 rulers",
+                    "value": 9.99
+                }
+            ]
+    }
+]
