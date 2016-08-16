@@ -1,4 +1,11 @@
-<form ng-submit="vm.onSubmit()">
+<div id="registerHeader" class="jumbotron">
+  <div class="headerContent" layout="column" layout-align="center center">
+    <h1>ClassGram</h1>
+    <h3>Be Interactive, Share, and Enjoy Class</h3>
+  </div>
+
+<div id="login-page" class="container">
+    <form ng-submit="vm.onSubmit()">
   <div class="form-group">
     <label for="name">Full name</label>
     <input type="text" class="form-control" id="name" placeholder="Enter your name" ng-model="vm.credentials.name">
@@ -13,3 +20,10 @@
   </div>
   <button ui-sref="/home" type="submit" class="btn btn-default">Register!</button>
 </form>
+
+  
+  
+</div>
+
+</div>
+

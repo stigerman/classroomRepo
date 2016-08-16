@@ -1,4 +1,35 @@
-<div class="jumbotron text-center">
-    <h1>The Homey Page</h1>
-    <p>This page demonstrates <span class="text-danger">nested</span> views.</p>
+<div id="homeHeader"class="jumbotron text-center">
+    <div class="homeHeaderContent">
+    <h1>Create Your Classroom </h1>
+ 
+    </div>
 </div>
+
+<Section class="classRegSection" layout="column" layout-align="center center">
+    <h3>Get Started Below</h3>        
+    <div class="classRegistration">
+    <form  role="form">
+  <div class="form-group">
+    <label for="Class name">Classroom Name</label>
+    <input type="text" ng-model="classroom.name" class="form-control" id="email">
+  </div>
+  <div class="form-group">
+    <label for="Class number">Classroom Number</label>
+    <input type="text" ng-model="classroom.classroom" class="form-control" id="pwd">
+  </div>
+    <div class="form-group">
+    <label for="Class description">Classroom Description</label>
+    <textarea  class="form-control" rows="3" ng-model="classroom.description" ></textarea>
+  </div>
+  <Div layout="column" layout-align="center center" >
+        <button type="submit" ng-click="submitClass(classroom)"class="btn btn-default">Submit</button>
+
+  </Div>
+</form>
+
+    
+</div>
+
+    
+    
+</Section>

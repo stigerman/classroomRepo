@@ -20,9 +20,10 @@ let
   server,
   FileStore = sessionFileStore(session);
 
-mongoose.connect('mongodb://heroku_39lsqb3n:ocdue91uvi2ndsqmk9mv0ns54a@ds011291.mlab.com:11291/heroku_39lsqb3n');
+mongoose.connect('mongodb://stigerman:deeznutz1@ds021182.mlab.com:21182/saas');
 var User = require('./model/user');
 var Post = require('./model/post');
+var Classroom = require('./model/classroom');
 var upload = require('./uploadcontroller');
 
 require('./public/config/passport');
@@ -93,20 +94,64 @@ app.post('/register', function(req, res) {
   })
 })
 
-app.post('/feed', function(req, res) {
-  var post = new Post();
+app.post('/newClass', function(req,res){
+  var classroom = new Classroom();
+  classroom.name = req.body.name;
+  classroom.classroom = req.body.classroom;
+  classroom.description = req.body.description;
+  classroom.save(function(err, classy) {
+            if(err){
+                res.json(err)
+            }
+            res.json(classy);
+            console.log(classy);
+   })
+})
 
-  post.title = req.body.title;
-  post.content = req.body.content;
+app.get('/classes', function(req, res){
+  Classroom.find(function(err,classes){
+    if (err){
+      return err;
+    } else {
+      res.json({
+        success:true,
+        
+        classes
+      })
+    }
+      
+  })
+})
 
-  post.save(function(err) {
+app.get('/classes/:id', function(req, res) {
+  var id = req.params.id;
+
+  Classroom.findById(id, function(err, classroom) {
     if (err)
       res.send(err);
-    res.json({
-      message: 'Post added ',
-      data: post
-    })
-  })
+
+    res.json(classroom);
+  });
+});
+
+
+app.post('/classes/:id/add', function(req, res) {
+   var newPost = new Post({
+                title: req.body.title,
+                content: req.body.content,
+                author: req.user,
+   })
+  Classroom.findById(req.params.id, function(err, classroom) {
+            if (err) {
+                res.send(err);
+            } else {
+                classroom.post.push(newPost);
+                console.log('i am the '+req.user);
+                classroom.save();
+                res.json(classroom);
+            }
+       });
+
 })
 
 app.get('/feed', function(req, res) {

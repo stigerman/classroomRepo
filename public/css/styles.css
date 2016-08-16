@@ -1,3 +1,86 @@
 body {
-	background-color:#aaa;
+	background-color:#fff;
+	font-family: 'Lato', sans-serif;
+
+}
+#registerHeader{
+background-image: url('../img/header1.jpg');
+  background-size: cover; 
+  height:1000px;
+}
+#homeHeader{
+background-image: url('../img/header2.jpg');
+  background-size: cover; 
+  height:600px;
+}
+#dashHeader{
+background-image: url('../img/header3.jpg');
+  background-size: cover; 
+  height:600px;
+}
+#dashHeaderContent{
+    margin-top:300px;
+    background-color:#0a77af;
+    color:white;
+    width:550px;
+    padding:15px;
+    font-weight:800;
+    border:2px dotted white;
+}
+
+.classdiv{
+    margin-top:25px;
+}
+
+.classHeader{
+    background-color:#0a77af;
+    color:#fff;
+    margin-bottom:-10px;
+   height:auto;
+    padding:3px;
+}
+
+
+
+
+.homeHeaderContent{
+    margin-top:200px;
+}
+
+.jumbotron{
+    margin:0px;
+}
+
+.navbar{
+    margin-bottom: none;
+}
+
+.classRegistration{
+    width:500px;
+    background-color:rgba(0, 109, 204, 0.93);
+    color:#c9c9c9;
+    border:5px solid #005fb3;
+    padding:15px;
+}
+
+.classRegSection{
+    padding:40px;
+    background-color:#c9c9c9;
+}
+
+#login-page {
+    width: 460px;
+    margin-top:350px;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    height: auto;
+    background-color:#0af088;
+    border:3px solid #08ba6a;
+}
+
+
+.headerContent{
+    color:White;
+    margin:0 auto;
 }

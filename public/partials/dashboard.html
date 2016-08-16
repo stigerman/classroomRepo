@@ -1,0 +1,24 @@
+<div id="dashHeader" class="jumbotron">
+<div id="dashHeaderContent" layout="column" layout-align="center center" class="container">
+    
+<h1>Find Your Class</h1>
+    
+</div>
+</div>
+
+<section class="container">
+    
+    <div class ="classdiv" layout="column" layout-align="center center" ng-repeat="class in classes">
+        <div>
+            <div class="classHeader">
+              <h3>{{class.classroom}}</h3>
+             <h4>{{class.name}}</h4>
+            </div>
+             
+             <img id="browseImg" ng-src="http://dq1jslmyx9epx.cloudfront.net/{{class.pics[0]}}" class="img-responsive" alt="Cinque Terre" />
+
+             <button ng-click="selectClassroom(class._id)">{{class.name}}</button>
+        </div>
+    </div>
+
+</section>

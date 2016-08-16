@@ -1,23 +1,32 @@
-angular.module('app', ['ui.router', 'angularFileUpload'])
+angular.module('app', ['ui.router', 'angularFileUpload', 'ngMaterial'])
   .config(['$stateProvider', '$urlRouterProvider',
     function($stateProvider, $urlRouterProvider) {
       $urlRouterProvider.otherwise('/register');
       $stateProvider
         .state('home', {
           url: '/home',
-          templateUrl: '/partials/home.html'
+          templateUrl: '/partials/home.html',
+          controller: 'homeController'
         })
-        .state('tdashboard', {
-          url: '/teacherdashboard',
-          templateUrl: "partials/teacherdashboard.html"
+        .state('classdash', {
+          url: '/classroomdashboard',
+          templateUrl: "partials/dashboard.html",
+          controller:'dashboardController'
         })
         .state('pdashboard', {
           url: '/parentdashboard',
           templateUrl: "partials/parentdashboard.html"
         })
         .state('classroom', {
-          url: '/classroom',
-          templateUrl: "partials/classroom.html"
+          url: '/classrooms/:id',
+          templateUrl: "partials/classroom.html",
+          controller: "classroomController"
+        })
+        
+        .state('boolin', {
+          url: '/classrooms/:id/feed/:url',
+          templateUrl: "partials/classroom.html",
+          controller: "feedController"
         })
         .state('classroom.gallery', {
           url: '/gallery',
@@ -95,6 +104,44 @@ angular.module('app', ['ui.router', 'angularFileUpload'])
   }
 })
 
+.controller('homeController', function($scope, $http,$state){
+   
+   $scope.submitClass = function(classroom){
+    $http.post('/newClass', classroom).then(function(response){
+      console.log(response.data);
+      $state.go('classdash', {id: response.data._id});
+    });
+   };
+})
+
+.controller('dashboardController', function($scope, $http,$state){
+  $http.get('/classes').then(function(response){
+    console.log(response.data);
+    $scope.classes = response.data.classes;
+  })
+  
+  $scope.selectClassroom = function(id) {
+        $state.go('classroom', {id: id});
+    }
+
+})
+
+
+.controller('classroomController', function($scope, $http, $stateParams){
+  console.log($stateParams);
+    $http.get('/classes/' + $stateParams.id).then(function(response){
+            console.log(response);
+            $scope.page = response.data;
+    });
+    
+    $scope.submitPost = function(post){
+      console.log(post);
+       $http.post('/classes/'+ $stateParams.id +'/add',post).then(function(response){
+         console.log(response);
+       });
+    };
+})
+   
 .controller('inboxController', function($scope, InboxFactory) {
   // initialize the title property to an array for the view to use
   InboxFactory.getMessages()
